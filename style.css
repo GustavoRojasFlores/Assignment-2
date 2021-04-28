@@ -1,0 +1,30 @@
+h1 {
+  text-align: center;
+  color: pink;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 300%;
+}
+
+i {
+  text-align: center;
+  color: white;
+  display:block;
+}
+
+h2 {
+  margin-left: 50px;
+  color: rgb(241, 51, 83);
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+p {
+  margin-left: 60px;
+  color: lightblue;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 150%;
+}
+
+body {
+  background-color: #683b3b;
+}
+
