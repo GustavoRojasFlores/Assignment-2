@@ -9,6 +9,9 @@ i {
   text-align: center;
   color: white;
   display: block;
+  background-color: firebrick;
+  padding: 5px;
+  border: 5px solid maroon;
 }
 
 h2 {
